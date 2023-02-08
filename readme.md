@@ -11,3 +11,6 @@ UI Problems:
 4. Not user friendly: On the registration page (http://www.drivingskills.on.ca/Reg.html), it tells you to print out the webpage (displayed like a form) and mail it, instead of making an html form for user to submit.
 
 5. Not Responsive Design: the marquee tag and image failed to adjust its size and overflow occurs 
+
+
+New Design: https://wireframe.cc/dTUqPs
